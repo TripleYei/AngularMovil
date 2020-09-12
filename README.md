@@ -1,3 +1,8 @@
   <h1 align="center"> Angular Capacitor</h1>
-  <center><img src="imagenes/imagen.PNG"/></center>
+  <img src="imagenes/imagen.PNG"/>
+  <style>
+  img{
+    margin-left: 200px;
+  }
+</style>
   
